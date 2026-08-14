@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navjot-singh-web/Leetcode/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Navjot-singh-web/Leetcode/tree/master/0402-remove-k-digits) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navjot-singh-web/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Navjot-singh-web/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Navjot-singh-web/Leetcode/tree/master/0496-next-greater-element-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navjot-singh-web/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Navjot-singh-web/Leetcode/tree/master/1051-height-checker) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navjot-singh-web/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
