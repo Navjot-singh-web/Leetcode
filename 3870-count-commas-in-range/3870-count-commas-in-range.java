@@ -10,10 +10,7 @@ class Solution {
         if(digit<4){
             return 0;
         }
-        int a=0;
-        for(int i =1000;i<=n;i++){
-            a++;
-        }
+        int a=n - 1000 +1;
         return a;
     }
 }
