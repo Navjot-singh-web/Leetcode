@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Navjot-singh-web/Leetcode/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/Navjot-singh-web/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/Navjot-singh-web/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Navjot-singh-web/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Navjot-singh-web/Leetcode/tree/master/0567-permutation-in-string) |
 | [1748-sum-of-unique-elements](https://github.com/Navjot-singh-web/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navjot-singh-web/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Navjot-singh-web/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -240,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Navjot-singh-web/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Navjot-singh-web/Leetcode/tree/master/3870-count-commas-in-range) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Navjot-singh-web/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Navjot-singh-web/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
