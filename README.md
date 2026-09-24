@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Navjot-singh-web/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/Navjot-singh-web/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Navjot-singh-web/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navjot-singh-web/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Navjot-singh-web/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Navjot-singh-web/Leetcode/tree/master/0836-rectangle-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navjot-singh-web/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Navjot-singh-web/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Navjot-singh-web/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Navjot-singh-web/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
