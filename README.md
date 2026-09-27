@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Navjot-singh-web/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/Navjot-singh-web/Leetcode/tree/master/0567-permutation-in-string) |
+| [2396-strictly-palindromic-number](https://github.com/Navjot-singh-web/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Navjot-singh-web/Leetcode/tree/master/0836-rectangle-overlap) |
+| [2396-strictly-palindromic-number](https://github.com/Navjot-singh-web/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navjot-singh-web/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Navjot-singh-web/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Navjot-singh-web/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Navjot-singh-web/Leetcode/tree/master/0836-rectangle-overlap) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Navjot-singh-web/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
