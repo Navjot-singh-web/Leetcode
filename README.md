@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Navjot-singh-web/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Navjot-singh-web/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Navjot-singh-web/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1925-count-square-sum-triples](https://github.com/Navjot-singh-web/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2396-strictly-palindromic-number](https://github.com/Navjot-singh-web/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navjot-singh-web/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Navjot-singh-web/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/Navjot-singh-web/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Navjot-singh-web/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
