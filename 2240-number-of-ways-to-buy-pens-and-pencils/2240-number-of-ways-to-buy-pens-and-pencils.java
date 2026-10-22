@@ -1,0 +1,8 @@
+class Solution {
+    public long waysToBuyPensPencils(int total, int cost1, int cost2) {
+        long ans =0;
+        for(long i =0;i<=total/cost1;i++)
+        ans += (total-(i*cost1))/cost2 +1;
+        return ans;
+    }
+}
