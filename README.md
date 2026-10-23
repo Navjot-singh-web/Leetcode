@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Navjot-singh-web/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Navjot-singh-web/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navjot-singh-web/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Navjot-singh-web/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Navjot-singh-web/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Navjot-singh-web/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Navjot-singh-web/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Navjot-singh-web/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
