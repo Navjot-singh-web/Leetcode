@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Navjot-singh-web/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Navjot-singh-web/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Navjot-singh-web/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0119-pascals-triangle-ii](https://github.com/Navjot-singh-web/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Navjot-singh-web/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Navjot-singh-web/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navjot-singh-web/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Navjot-singh-web/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Navjot-singh-web/Leetcode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/Navjot-singh-web/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Navjot-singh-web/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/Navjot-singh-web/Leetcode/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Navjot-singh-web/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
