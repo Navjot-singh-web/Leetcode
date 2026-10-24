@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Navjot-singh-web/Leetcode/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/Navjot-singh-web/Leetcode/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Navjot-singh-web/Leetcode/tree/master/0567-permutation-in-string) |
+| [0942-di-string-match](https://github.com/Navjot-singh-web/Leetcode/tree/master/0942-di-string-match) |
 | [2409-count-days-spent-together](https://github.com/Navjot-singh-web/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navjot-singh-web/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Navjot-singh-web/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Navjot-singh-web/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Navjot-singh-web/Leetcode/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Navjot-singh-web/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0942-di-string-match](https://github.com/Navjot-singh-web/Leetcode/tree/master/0942-di-string-match) |
 | [1051-height-checker](https://github.com/Navjot-singh-web/Leetcode/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/Navjot-singh-web/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Navjot-singh-web/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navjot-singh-web/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Navjot-singh-web/Leetcode/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/Navjot-singh-web/Leetcode/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/Navjot-singh-web/Leetcode/tree/master/0942-di-string-match) |
 | [2396-strictly-palindromic-number](https://github.com/Navjot-singh-web/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Navjot-singh-web/Leetcode/tree/master/0402-remove-k-digits) |
 | [0860-lemonade-change](https://github.com/Navjot-singh-web/Leetcode/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/Navjot-singh-web/Leetcode/tree/master/0942-di-string-match) |
 ## Tree
 |  |
 | ------- |
