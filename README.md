@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Navjot-singh-web/Leetcode/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Navjot-singh-web/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0942-di-string-match](https://github.com/Navjot-singh-web/Leetcode/tree/master/0942-di-string-match) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Navjot-singh-web/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/Navjot-singh-web/Leetcode/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/Navjot-singh-web/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Navjot-singh-web/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navjot-singh-web/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Navjot-singh-web/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Navjot-singh-web/Leetcode/tree/master/0567-permutation-in-string) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Navjot-singh-web/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/Navjot-singh-web/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Navjot-singh-web/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navjot-singh-web/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Navjot-singh-web/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Navjot-singh-web/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
