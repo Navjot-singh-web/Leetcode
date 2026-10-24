@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Navjot-singh-web/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Navjot-singh-web/Leetcode/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Navjot-singh-web/Leetcode/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/Navjot-singh-web/Leetcode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Navjot-singh-web/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1051-height-checker](https://github.com/Navjot-singh-web/Leetcode/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/Navjot-singh-web/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Navjot-singh-web/Leetcode/tree/master/0402-remove-k-digits) |
+| [0860-lemonade-change](https://github.com/Navjot-singh-web/Leetcode/tree/master/0860-lemonade-change) |
 ## Tree
 |  |
 | ------- |
