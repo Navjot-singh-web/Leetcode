@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Navjot-singh-web/Leetcode/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/Navjot-singh-web/Leetcode/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Navjot-singh-web/Leetcode/tree/master/0567-permutation-in-string) |
+| [2409-count-days-spent-together](https://github.com/Navjot-singh-web/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navjot-singh-web/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Navjot-singh-web/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Navjot-singh-web/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Navjot-singh-web/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Navjot-singh-web/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2396-strictly-palindromic-number](https://github.com/Navjot-singh-web/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Navjot-singh-web/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navjot-singh-web/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Navjot-singh-web/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Navjot-singh-web/Leetcode/tree/master/3870-count-commas-in-range) |
