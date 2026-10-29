@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navjot-singh-web/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Navjot-singh-web/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Navjot-singh-web/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0724-find-pivot-index](https://github.com/Navjot-singh-web/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Navjot-singh-web/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Navjot-singh-web/Leetcode/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Navjot-singh-web/Leetcode/tree/master/0832-flipping-an-image) |
@@ -378,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Navjot-singh-web/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Navjot-singh-web/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
