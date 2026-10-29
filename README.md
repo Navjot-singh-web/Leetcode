@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Navjot-singh-web/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Navjot-singh-web/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Navjot-singh-web/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1991-find-the-middle-index-in-array](https://github.com/Navjot-singh-web/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navjot-singh-web/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Navjot-singh-web/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Navjot-singh-web/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -383,4 +384,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Navjot-singh-web/Leetcode/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/Navjot-singh-web/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
